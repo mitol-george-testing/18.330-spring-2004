@@ -1,0 +1,45 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "237d9e8d-7916-11bb-2e1a-85b89abe13d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Numerical Analysis",
+  "course_description": "This course analyzed the basic techniques for the efficient numerical solution of problems in science and engineering. Topics spanned root finding, interpolation, approximation of functions, integration, differential equations and direct and iterative methods in linear algebra.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.330",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
